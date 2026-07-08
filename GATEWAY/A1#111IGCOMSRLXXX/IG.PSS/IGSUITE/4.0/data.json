@@ -1,0 +1,17 @@
+{
+    "appVendor": "IG.PSS",
+    "appID": "IGSUITE",
+    "appVersion": "4.0",
+    "email": "fse@igcom.it",
+    "results": [
+        {
+            "id": "123",
+            "ts": "2025-10-07T12:58:52",
+            "traceId": "8144c144ea57d33e8cc75fe68c01a010",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120212.4.4.a35bbca880792ec85936360b5b135c449fc79cfd848419b4ac36b75890a6a81b.9afcbb7dfd^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "123_VALIDAZIONE_CDA2_VPS_CT6_KO"
+            ]
+        }
+    ]
+}
